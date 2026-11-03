@@ -1,0 +1,2 @@
+# Slice 1: standard library only, no dependencies yet.
+# FastAPI arrives in a later slice.
